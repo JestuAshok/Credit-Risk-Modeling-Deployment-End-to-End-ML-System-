@@ -203,7 +203,7 @@ http://127.0.0.1:8000/docs
 ## 📈 Key Results
 
 * ROC-AUC: **~0.78**
-* Accuracy: **~82–84%**
+* Accuracy: **~82–91%**
 * Significant reduction in financial loss using cost-optimized threshold
 
 ---
@@ -221,7 +221,7 @@ http://127.0.0.1:8000/docs
 
 ## 🧾 Resume-Ready Description
 
-> Built an end-to-end Credit Risk Modeling system using large-scale financial data; performed domain-driven feature engineering, trained Gradient Boosting models optimized with ROC-AUC, implemented cost-sensitive decision thresholds, applied SHAP for explainability, and deployed the solution via FastAPI and Docker.
+> Built an end-to-end Credit Risk Modeling system using large-scale financial data; performed domain-driven feature engineering, trained Gradient Boosting models optimized with ROC-AUC, implemented cost-sensitive decision thresholds and deployed the solution via FastAPI and Docker.
 
 ---
 
