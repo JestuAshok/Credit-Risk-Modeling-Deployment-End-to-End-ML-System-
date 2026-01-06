@@ -130,15 +130,20 @@ credit-risk-project/
 ```json
 {
   "CODE_GENDER": "M",
-  "AMT_INCOME_TOTAL": 180000,
-  "AMT_CREDIT": 600000,
-  "AMT_ANNUITY": 22000,
-  "DAYS_BIRTH": -12000,
-  "DAYS_EMPLOYED": -3000,
   "NAME_EDUCATION_TYPE": "Higher education",
   "NAME_FAMILY_STATUS": "Married",
-  "NAME_INCOME_TYPE": "Working"
+  "NAME_INCOME_TYPE": "Working",
+
+  "AGE_YEARS": 32.5,
+  "EMPLOYED_YEARS": 6.0,
+  "EMPLOYMENT_AGE_RATIO": 0.18,
+
+  "TOTAL_INCOME": 180000,
+  "CREDIT_INCOME_RATIO": 3.3,
+  "ANNUITY_INCOME_RATIO": 0.12,
+  "CREDIT_TERM_YEARS": 18.0
 }
+
 ```
 
 ### Sample Response
